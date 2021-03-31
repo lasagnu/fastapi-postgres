@@ -10,7 +10,7 @@ emails==0.5.15
 fastapi==0.45.0
 h11==0.8.1
 idna==2.8
-lxml==4.4.2
+lxml==4.6.3
 passlib==1.7.2
 premailer==3.6.1
 psycopg2-binary==2.8.4
